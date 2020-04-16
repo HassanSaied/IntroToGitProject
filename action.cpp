@@ -8,7 +8,7 @@ void action::do_magic()
 }
 
 int action::get_random_int(){
-    return 84;
+    return 150;
 }
 
 bool action::is_number_magical(int x){
