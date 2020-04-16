@@ -18,3 +18,6 @@ bool action::is_number_magical(int x){
 void action::do_black_magic(){
     cout<<"You have been CURSED"<<endl;
 }
+void action::hello_world(){
+    cout<<"Heelo World!"<<endl;
+}

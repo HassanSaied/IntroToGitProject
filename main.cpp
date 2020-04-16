@@ -13,5 +13,6 @@ int main(){
     {
         act.do_black_magic();
     }
+    act.hello_world();
     
 }
